@@ -1,6 +1,6 @@
 # Getting started with docker part 2
 
-https://docs.docker.com/get-started/part3/
+https://docs.docker.com/get-started/part2/
 
 >The **Dockerfile** file tells Docker to do the following:
 >
